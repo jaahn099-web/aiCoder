@@ -43,14 +43,14 @@ students, and coding enthusiasts who want to boost their productivity.
    # Download the script
    git clone https://github.com/jaahn099-web/aiCoder
    cd aiCoder
-   
-   # Install required packages
-   pip install groq rich python-dotenv
-```
 
-1. FIRST RUN
-   ```bash
-   python Aicode2.txt
+# Easy installation
+ python installor.py
+
+warning only use aiCoder not aicoder_pro
+
+python aiCoder.py
+
    ```
    • Enter your Groq API key when prompted
    • Start using AI code generation!
